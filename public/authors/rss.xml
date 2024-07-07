@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://192.168.1.20:8080/authors/atom.xml" rel="self" type="application/atom+xml"/>
+            
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://192.168.1.20:8080/authors/" rel="alternate" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://192.168.1.20:8080/authors/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+            <copyright>© Makayla Ryan</copyright>
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en</language>
+        
+
+        
+
+        <link>http://192.168.1.20:8080/authors/</link>
+
+        
+            <managingEditor>example@example.com (John Doe)</managingEditor>
+        
+
+        <title>Authors · Muscle Melting Massage</title>
+
+        
+            <webMaster>example@example.com (John Doe)</webMaster>
+        
+
+        
+    </channel>
+</rss>
