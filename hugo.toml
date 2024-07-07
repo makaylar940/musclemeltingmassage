@@ -55,7 +55,7 @@ startlevel = 2
 path = "github.com/willfaught/paige"
 
 [outputs]
-home = ["atom", "html", "paige-search", "rss"]
+home = ["atom", "html", "rss"]
 section = ["atom", "html", "rss"]
 taxonomy = ["atom", "html", "rss"]
 term = ["atom", "html", "rss"]
