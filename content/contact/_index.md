@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 description = "Contact us today!"
+lastmod = 2024-07-06
 +++
 
 ## Location

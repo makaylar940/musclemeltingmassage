@@ -1,6 +1,7 @@
 +++
 title = "Policies"
 description = "A list of policies to be aware of."
+lastmod = 2024-07-06
 +++
 
 ## Cancellation/Rescheduling Policy

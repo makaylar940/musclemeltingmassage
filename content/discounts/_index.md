@@ -1,6 +1,7 @@
 +++
 title = "Discounts"
 description = "A list of discounts available."
+lastmod = 2024-07-06
 +++
 
 ## Loyalty Program

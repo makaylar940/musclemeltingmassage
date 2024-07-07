@@ -1,6 +1,7 @@
 +++
 title = "Services & Pricing"
 description = "A list of services provided."
+lastmod = 2024-07-06
 +++
 
 ## Pricing
