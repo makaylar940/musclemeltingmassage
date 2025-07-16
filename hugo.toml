@@ -2,7 +2,7 @@ baseurl = "https://musclemeltingmassage.com"
 copyright = "© Makayla Ryan"
 enablerobotstxt = true
 languagecode = "en-us"
-paginate = 50
+pagination.pagerSize = 50
 timezone = "America/Edmonton"
 titlecasestyle = "Go"
 
