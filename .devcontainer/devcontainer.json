@@ -1,0 +1,31 @@
+{
+  "name": "Ubuntu",
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended": true,
+      "version": "latest"
+    },
+    "ghcr.io/devcontainers/features/go:1": {
+      "version": "latest"
+    }
+  },
+  "forwardPorts": [1313],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "eliostruyf.vscode-front-matter"
+      ]
+    }
+  },
+  "postCreateCommand": "hugo --minify",
+  "onCreateCommand": "hugo mod get",
+  "updateContentCommand": "hugo --minify",
+  "postStartCommand": "hugo server -D --bind=0.0.0.0 --appendPort=false",
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Live Preview",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
