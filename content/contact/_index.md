@@ -1,7 +1,7 @@
 +++
-title = "Contact"
-description = "Contact us today!"
-lastmod = 2024-07-06
+title = "Contact me!"
+description = ""
+lastmod = 2025-07-15
 +++
 
 ## Location
